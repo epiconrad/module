@@ -8,9 +8,8 @@ class ScratchController < ApplicationController
 	end
 
 	def Conrad
-		
+		puts "Dian <3"
 	end
-
 	def Fernando
 		
 	end
