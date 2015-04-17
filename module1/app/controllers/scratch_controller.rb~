@@ -1,2 +1,21 @@
 class ScratchController < ApplicationController
+<<<<<<< HEAD
+	def smellyfernando
+=======
+	def Philip
+		
+	end
+
+	def Aldrine
+		
+	end
+
+	def Conrad
+		
+	end
+
+	def Fernando
+		
+>>>>>>> 72e8cbf0b6e22e3218f04e66ec75a66621cb9294
+	end
 end
