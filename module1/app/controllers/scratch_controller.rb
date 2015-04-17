@@ -1,0 +1,2 @@
+class ScratchController < ApplicationController
+end
